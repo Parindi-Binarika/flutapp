@@ -21,7 +21,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("IOT APP 08"),
+          title: Text("IOT  new APP 08"),
           backgroundColor: const Color.fromARGB(255, 132, 195, 165),
           centerTitle: true,
         ),
