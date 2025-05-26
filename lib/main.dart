@@ -29,7 +29,7 @@ class _MyAppState extends State<MyApp> {
           child: Column(
             children: [
               SizedBox(height: 40),
-              Text("LED ON/OFF"),
+              Text("LED ON//OFF"),
               SizedBox(height: 40),
               Icon(Icons.lightbulb, color: iconColor),
               SizedBox(height: 40),
